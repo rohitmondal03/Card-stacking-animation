@@ -1,0 +1,27 @@
+.card {
+  position: sticky;
+  top: 0;
+  height: 100vh;
+}
+
+.card > h1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+
+.card1 {
+  background-color: red;
+}
+
+.card2 {
+  background-color: yellow;
+}
+
+.card3 {
+  background-color: blue;
+}
+
+.card4 {
+  background-color: green;
+}
